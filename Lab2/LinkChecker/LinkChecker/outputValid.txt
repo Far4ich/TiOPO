@@ -1,0 +1,10 @@
+http://links.qatl.ru/ OK:200
+http://links.qatl.ru/index.html OK:200
+http://links.qatl.ru/about.html OK:200
+http://links.qatl.ru/work.html OK:200
+http://links.qatl.ru/pricing.html OK:200
+http://links.qatl.ru/blog.html OK:200
+http://links.qatl.ru/contact.html OK:200
+http://links.qatl.ru/blog-single.html OK:200
+Count: 8
+Data: 26.10.2022 10:43:25

@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "Профиль 1": {
+      "commandName": "Project",
+      "commandLineArgs": "2,0 4,0 5,0"
+    },
+    "Профиль 2": {
+      "commandName": "Project",
+      "commandLineArgs": "340282300000000000000000000000000000000 340282300000000000000000000000000000000 3402823000000000000000000000000000000000"
+    }
+  }
+}
